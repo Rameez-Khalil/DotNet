@@ -1,0 +1,15 @@
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

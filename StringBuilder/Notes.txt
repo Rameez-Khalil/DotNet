@@ -1,0 +1,2 @@
+Whenever we are changing text we are creating new reference/copy.
+String Builder allows us to manage this issue without creating a new copy.

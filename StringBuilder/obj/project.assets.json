@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DANISH LAPTOP\\Desktop\\backend-learning\\DotNet\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\DANISH LAPTOP\\Desktop\\backend-learning\\DotNet\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\DANISH LAPTOP\\Desktop\\backend-learning\\DotNet\\StringBuilder\\StringBuilder.csproj",
+      "projectName": "StringBuilder",
+      "projectPath": "C:\\Users\\DANISH LAPTOP\\Desktop\\backend-learning\\DotNet\\StringBuilder\\StringBuilder.csproj",
       "packagesPath": "C:\\Users\\DANISH LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DANISH LAPTOP\\Desktop\\backend-learning\\DotNet\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\DANISH LAPTOP\\Desktop\\backend-learning\\DotNet\\StringBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DANISH LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
