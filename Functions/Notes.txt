@@ -1,0 +1,7 @@
+Avoids code redundancy
+Access Modifiers: 
+	Public - accessible outside of the class.
+	Private - Cannot be accessible outside of the class.
+	Protected - Can't be accessed by outside class but available for child class.
+
+
