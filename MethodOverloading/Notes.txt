@@ -1,0 +1,1 @@
+When we are manipulating the input parameters of a function only.
