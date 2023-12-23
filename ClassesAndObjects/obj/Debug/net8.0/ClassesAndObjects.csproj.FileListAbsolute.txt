@@ -1,0 +1,15 @@
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.exe
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.deps.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.sourcelink.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\refint\ClassesAndObjects.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.genruntimeconfig.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\ClassesAndObjects\obj\Debug\net8.0\ref\ClassesAndObjects.dll

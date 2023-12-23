@@ -1,0 +1,3 @@
+Enumerated Types: 
+	Limited number of possible values.
+	They allow us to use symbolic names.

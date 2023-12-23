@@ -1,0 +1,4 @@
+Classes are definitions for our objecs.
+Objects are the actual entity depicting the definition of our class.
+
+this - Objects name.

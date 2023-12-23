@@ -1,0 +1,15 @@
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\bin\Debug\net8.0\EnumartedTypes.exe
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\bin\Debug\net8.0\EnumartedTypes.deps.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\bin\Debug\net8.0\EnumartedTypes.runtimeconfig.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\bin\Debug\net8.0\EnumartedTypes.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\bin\Debug\net8.0\EnumartedTypes.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.AssemblyInfoInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.AssemblyInfo.cs
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.sourcelink.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\refint\EnumartedTypes.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\EnumartedTypes.genruntimeconfig.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\EnumartedTypes\obj\Debug\net8.0\ref\EnumartedTypes.dll
