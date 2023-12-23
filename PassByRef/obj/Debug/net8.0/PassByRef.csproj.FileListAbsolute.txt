@@ -1,0 +1,15 @@
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\bin\Debug\net8.0\PassByRef.exe
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\bin\Debug\net8.0\PassByRef.deps.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\bin\Debug\net8.0\PassByRef.runtimeconfig.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\bin\Debug\net8.0\PassByRef.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\bin\Debug\net8.0\PassByRef.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.AssemblyInfoInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.AssemblyInfo.cs
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.sourcelink.json
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\refint\PassByRef.dll
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.pdb
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\PassByRef.genruntimeconfig.cache
+C:\Users\DANISH LAPTOP\Desktop\backend-learning\DotNet\PassByRef\obj\Debug\net8.0\ref\PassByRef.dll
