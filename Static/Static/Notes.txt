@@ -1,0 +1,4 @@
+NULLABLE TYPES: 
+	Data Types by default cannot contain null.
+	By placing a question mark, we can achieve it.
+	int? nullableNumber = null; 

@@ -1,0 +1,6 @@
+
+STRUCT: 
+Struct is a user defined type.
+Much like classes they have fields and methods
+
+
