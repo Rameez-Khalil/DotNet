@@ -1,0 +1,12 @@
+INHERITANCE: 
+	Inheritance draws a relationship IS-A.
+	virtual keyword should be added to the mehods to be overriden.
+	override keyword should be added to the method signature.
+	A colon is used to perform inheritance.
+
+
+	
+
+
+
+	protected can be accessed within the child classs.
